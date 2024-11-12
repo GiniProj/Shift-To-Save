@@ -65,4 +65,4 @@ The unique components of *A Shift To Save* include the trust bar mechanics, the 
 
 ---
 
-***A Shift To Save* combines trust-building, urgent decision-making, and the pursuit of professional growth in a compassionate but challenging setting. Can you handle the pressure and rise to the top?**
+A Shift To Save* combines trust-building, urgent decision-making, and the pursuit of professional growth in a compassionate but challenging setting. **Can you handle the pressure and rise to the top?**
