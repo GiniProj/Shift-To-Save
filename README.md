@@ -1,5 +1,13 @@
 # A Shift To Save
 
+<div align="center">
+  <h3><strong>e</strong></h3>
+</div>
+
+<div align="center">
+  <img src="Last-Heaven-Logo.jpg" width="300"/>
+</div>
+
 ### Description
 *A Shift To Save* is an immersive single-player RPG (with plans for a future co-op mode) that places you in the role of a nurse navigating the challenges of a bustling hospital. Balancing patient care with moral dilemmas and tight time constraints, players make crucial decisions to save lives, earn the trust of coworkers, and advance through the hospital ranks. As you perform well, you’ll unlock promotions, special missions, and new responsibilities, ultimately aiming to become the hospital manager. This game reflects the intensity, compassion, and resilience required on the frontlines of healthcare.
 
