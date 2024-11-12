@@ -9,10 +9,11 @@
   <img src="Last-Heaven-Logo.jpg" width="300"/>
 </div>
 
-
+---
 ### Description
 In this immersive RPG, players step into the role of a dedicated nurse, balancing patient care, time pressures, and complex moral decisions in a bustling hospital environment. As you navigate urgent medical cases alongside coworkers, building trust and support will be essential. Your performance is continuously tracked, opening paths to promotions and special missions. Rise through the ranks, make every second count, and experience the heart and hardship of the frontlines of healthcare.
 
+---
 ### Official Components
 
 - **Players**
@@ -52,6 +53,7 @@ In this immersive RPG, players step into the role of a dedicated nurse, balancin
   - **Stagnation:** Poor performance results in no promotion.
   - **Firing:** Consistently poor decisions lead to dismissal from the job.
 
+---
 ### Market Research
 
 - **Similar Games:**  
@@ -63,4 +65,4 @@ The unique components of *A Shift To Save* include the trust bar mechanics, the 
 
 ---
 
-*A Shift To Save* combines trust-building, urgent decision-making, and the pursuit of professional growth in a compassionate but challenging setting. Can you handle the pressure and rise to the top?
+***A Shift To Save* combines trust-building, urgent decision-making, and the pursuit of professional growth in a compassionate but challenging setting. Can you handle the pressure and rise to the top?**
