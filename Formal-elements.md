@@ -1,7 +1,14 @@
 
 # A Shift To Save
 
-**A Journey of Healing, Heart, and Hard Choices**
+<div align="center">
+  <h3><strong>A Journey of Healing, Heart, and Hard Choices</strong></h3>
+</div>
+
+<div align="center">
+  <img src="Last-Heaven-Logo.jpg" width="300"/>
+</div>
+
 
 ### Description
 In this immersive RPG, players step into the role of a dedicated nurse, balancing patient care, time pressures, and complex moral decisions in a bustling hospital environment. As you navigate urgent medical cases alongside coworkers, building trust and support will be essential. Your performance is continuously tracked, opening paths to promotions and special missions. Rise through the ranks, make every second count, and experience the heart and hardship of the frontlines of healthcare.
