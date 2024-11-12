@@ -1,7 +1,7 @@
 # A Shift To Save
 
 <div align="center">
-  <h3><strong>e</strong></h3>
+  <h3><strong>A Journey of Healing, Heart, and Hard Choices</strong></h3>
 </div>
 
 <div align="center">
