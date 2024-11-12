@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="Last-Heaven-Logo.jpg" width="300"/>
+  <img src="Shift-To-Save.jpg" width="300"/>
 </div>
 
 ---
