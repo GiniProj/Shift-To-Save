@@ -53,7 +53,6 @@ In this immersive RPG, players step into the role of a dedicated nurse, balancin
   - **Stagnation:** Poor performance results in no promotion.
   - **Firing:** Consistently poor decisions lead to dismissal from the job.
 
----
 ### Market Research
 
 - **Similar Games:**  
