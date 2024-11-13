@@ -8,7 +8,6 @@
   <img src="Shift-To-Save.jpg" width="300"/>
 </div>
 
----
 ### Description
 *A Shift To Save* is an immersive single-player RPG (with plans for a future co-op mode) that places you in the role of a nurse navigating the challenges of a bustling hospital. Balancing patient care with moral dilemmas and tight time constraints, players make crucial decisions to save lives, earn the trust of coworkers, and advance through the hospital ranks. As you perform well, you’ll unlock promotions, special missions, and new responsibilities, ultimately aiming to become the hospital manager. This game reflects the intensity, compassion, and resilience required on the frontlines of healthcare.
 
@@ -24,7 +23,6 @@
 
 - **More Information:** [Formal Elements Document](https://github.com/GiniProj/Shift-To-Save/blob/main/Formal-elements.md)  
 
----
 ### Game Components
 
 - **Trust Meter:** Build or lose trust with coworkers based on the decisions you make.
