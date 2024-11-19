@@ -71,7 +71,7 @@ In this immersive RPG, players step into the role of a dedicated nurse, balancin
       It's all up to you !
       
 ### Usables
--Guages 
+- **Guages** 
   - Co-Worker Relations
   - Decision making
   - Promotion
