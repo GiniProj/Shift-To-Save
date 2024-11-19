@@ -63,8 +63,8 @@ In this immersive RPG, players step into the role of a dedicated nurse, balancin
     Did you make enough good connections so your co-workers will come and lend a hand ? 
     This game is based on right choices and critical thinking that you will have to adapt and think quickly.
     
-  - **Operation Room**
-    - You are now in the critical phases of the game - if you played correctly and gained the favor of your co-        workers and boss you will get a chance to be promoted. 
+- **Operation Room**
+  - You are now in the critical phases of the game - if you played correctly and gained the favor of your co-        workers and boss you will get a chance to be promoted. 
       But, that is not enough because you will have to perform well enough in the operation room in order to get       that promotion and advance in the game. 
       Will you get that promotion ? 
       Will you manage to help the doctor perform the operation successfully ? 
