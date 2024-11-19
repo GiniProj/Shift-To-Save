@@ -54,6 +54,28 @@ In this immersive RPG, players step into the role of a dedicated nurse, balancin
   - **Firing:** Consistently poor decisions lead to dismissal from the job.
 
 ---
+### Scenarios
+
+-**Who To Help**
+  - You will have to face a tough decision, two patients are asking for immediate help. Who will receive your         care and attention ? 
+    Will you have enough time to heal both of them ?
+    These are split second decisions you will have to make in real time while you play the game. 
+    Did you make enough good connections so your co-workers will come and lend a hand ? 
+    This game is based on right choices and critical thinking that you will have to adapt and think quickly.
+  -**Operation Room**
+    - You are now in the critical phases of the game - if you played correctly and gained the favor of your co-        workers and boss you will get a chance to be promoted. 
+      But, that is not enough because you will have to perform well enough in the operation room in order to get       that promotion and advance in the game. 
+      Will you get that promotion ? 
+      Will you manage to help the doctor perform the operation successfully ? 
+      It's all up to you !
+      
+### Usables
+-Guages 
+  - Co-Worker Relations
+  - Decision making
+  - Promotion
+  
+---
 ### Market Research
 
 - **Similar Games:**  
