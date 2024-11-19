@@ -56,7 +56,7 @@ In this immersive RPG, players step into the role of a dedicated nurse, balancin
 ---
 ### Scenarios
 
--**Who To Help**
+- **Who To Help**
   - You will have to face a tough decision, two patients are asking for immediate help. Who will receive your         care and attention ? 
     Will you have enough time to heal both of them ?
     These are split second decisions you will have to make in real time while you play the game. 
